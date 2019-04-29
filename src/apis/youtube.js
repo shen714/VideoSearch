@@ -9,5 +9,4 @@ export default Axios.create({
         maxResults:5,
         key: KEY
     }
-
 });
